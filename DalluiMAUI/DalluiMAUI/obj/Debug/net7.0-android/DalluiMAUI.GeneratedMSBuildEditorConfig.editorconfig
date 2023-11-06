@@ -38,6 +38,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = DalluiMAUI.MVVM.Views.Dash
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\DashboardView.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\DashboardView.xaml
 
+[C:/Udemy/MAUI/DalluiMAUI/DalluiMAUI/DalluiMAUI/MVVM/Views/GenerationOptionsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DalluiMAUI.MVVM.Views.GenerationOptionsView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\GenerationOptionsView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\GenerationOptionsView.xaml
+
+[C:/Udemy/MAUI/DalluiMAUI/DalluiMAUI/DalluiMAUI/MVVM/Views/ImageGeneratorView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DalluiMAUI.MVVM.Views.ImageGeneratorView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ImageGeneratorView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ImageGeneratorView.xaml
+
 [C:/Udemy/MAUI/DalluiMAUI/DalluiMAUI/DalluiMAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DalluiMAUI.Resources.Styles.Colors.xaml
